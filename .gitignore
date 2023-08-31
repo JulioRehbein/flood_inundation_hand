@@ -1,0 +1,10 @@
+/dem_cropped
+/dem_merged
+/accumulated_cells
+/__pycache__
+/.ipynb_checkpoints
+/accumulations
+/dem/*.xml
+/sink_filling/*.npy
+Untitled.ipynb
+Untitled1.ipynb
